@@ -15,6 +15,18 @@
         Cette ligne a été écrite entièrement en HTML.<br />
         <?php echo ("Celle-ci a été écrite entièrement en PHP."); ?>
     </p>
+    <p>
+        Cette ligne a été écrite entièrement en HTML.<br />
+        <?php echo ("Celle-ci a été écrite entièrement en PHP."); ?>
+    </p>
+    <p>
+        Cette ligne a été écrite entièrement en HTML.<br />
+        <?php echo ("Celle-ci a été écrite entièrement en PHP."); ?>
+    </p>
+    <p>
+        Cette ligne a été écrite entièrement en HTML.<br />
+        <?php echo ("Celle-ci a été écrite entièrement en PHP."); ?>
+    </p>
 
     <script src="./assets/js/main.js"></script>
 </body>
