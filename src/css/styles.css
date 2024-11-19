@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*body{
+    overflow-x: hidden;
+}
+p{
+    color: red;
+    font-size: xx-large;
+}
