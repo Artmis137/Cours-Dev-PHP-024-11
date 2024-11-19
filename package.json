@@ -1,0 +1,17 @@
+{
+  "name": "cours-php-11-024",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tailwindcss -i ./src/css/styles.css -o ./public/css/styles.css --watch",
+    "watch": "tailwindcss -i ./src/css/styles.css -o ./public/css/styles.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.15"
+  }
+}
