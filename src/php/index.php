@@ -31,6 +31,9 @@ $myTam = ["service1" => "S1", "service 2" => "S2", "service3" => "S3", "service4
     <label for="debutant">Débutant</label><br>
     <input type="checkbox" id="intermediaire" name="level[]">
     <label for="intermediaire">Intermediaire</label><br>
+    <label for="tes">Select</label><br>
+    <input type="radio" id="tes1" name="test1"><label for="tes1">Tes1</label><br>
+    <input type="radio" id="tes2" name="test1"><label for="tes2">Tes2</label><br>
     <button type="submit" class="btn ">Valider</button>
     <button type="reset">reset</button>
    </form>
@@ -71,7 +74,7 @@ $myTam = ["service1" => "S1", "service 2" => "S2", "service3" => "S3", "service4
         <?php echo ("Celle-ci a été écrite entièrement en PHP."); ?>
     </p>
 
-    <script src="./assets/js/main.js"></script>
+    <script src="../js/main.js"></script>
 </body>
 
 </html>
